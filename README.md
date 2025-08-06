@@ -32,3 +32,21 @@ Supporting data source with master and transactional data (if needed separately)
 
 🖼️ **/images/**  
 Folder containing screenshots, charts, or visual references used in documentation or the dashboard.
+
+## 🛠️ How to Use
+
+📂 **Open `project.xlsx` in Excel**  
+Launch the main dashboard file to begin exploring.
+
+🎛️ **Interact with slicers and dropdowns**  
+Use filters like Employee ID, Region, and Department to customize dashboard views.
+
+
+📊 **Explore visualizations**  
+Dive into charts showing overall and employee-specific performance:  
+- Revenue  
+- Units Sold  
+- Target Achievement  
+- Bonus Payouts  
+- Product Categories  
+- Monthly & Quarterly Trends
