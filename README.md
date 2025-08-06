@@ -4,6 +4,11 @@ This project presents an interactive Excel dashboard designed to analyze and vis
 
 📥 [Click here to visit the Repo ](https://github.com/Mohit-kr-singh/sales-performance-dashboard))
 
+## Dashboard Image
+
+<img width="1852" height="810" alt="image" src="https://github.com/user-attachments/assets/56209be8-2241-495f-bd24-18429f160114" />
+
+
 ## ✨ Features
 
 👤 **Employee & Region Insights**  
@@ -66,3 +71,22 @@ Dive into charts showing overall and employee-specific performance:
 - Bonus Payouts  
 - Product Categories  
 - Monthly & Quarterly Trends
+
+## 🔍 Insights & Reflections
+
+📌 The dashboard showcases Excel’s advanced capabilities, including:  
+- PivotTables  
+- Slicers  
+- Dynamic lookups (INDEX/MATCH or XLOOKUP)  
+- Data validation lists
+
+## ✍️ Author
+
+**Mohit Kumar Singh**  
+Aspiring Data Analyst | Excel | Python | Statistics  
+
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-blue?logo=github)](https://github.com/Mohit-kr-singh)
+
+## 📃 License
+
+This project is open-source and intended for educational use.
