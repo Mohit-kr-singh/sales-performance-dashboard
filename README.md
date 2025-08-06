@@ -2,7 +2,7 @@
 **Overview**  
 This project presents an interactive Excel dashboard designed to analyze and visualize sales performance across employees, regions, and product categories. The dashboard leverages slicers, dropdowns, and visual KPIs to deliver clear business insights, helping teams and managers track revenue, targets, bonuses, and workforce contributions with ease.
 
-📥 [Click here to download the dashboard](https://github.com/your-username/your-repo/raw/main/project.xlsx](https://github.com/Mohit-kr-singh/sales-performance-dashboard))
+📥 [Click here to visit the Repo ](https://github.com/Mohit-kr-singh/sales-performance-dashboard))
 
 ## ✨ Features
 
