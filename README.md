@@ -1,2 +1,34 @@
-# sales-performance-dashboard
-This project features an interactive Excel dashboard for analyzing sales performance across employees, regions, and products. The dashboard includes key performance indicators, charts, region/employee filters, and visual insights into revenue, targets, and team achievements. Designed for clear, actionable business intelligence from raw sales data.
+### 📊 **Sales Performance Dashboard (Excel Project)**  
+**Overview**  
+This project presents an interactive Excel dashboard designed to analyze and visualize sales performance across employees, regions, and product categories. The dashboard leverages slicers, dropdowns, and visual KPIs to deliver clear business insights, helping teams and managers track revenue, targets, bonuses, and workforce contributions with ease.
+
+## ✨ Features
+
+👤 **Employee & Region Insights**  
+Filter dashboard views by employee, region, or department to drill down to details.
+
+📊 **Key Performance Indicators**  
+Instantly see Total Revenue, Units Sold, and Target Achievement.
+
+📈 **Interactive Charts**  
+Visualize sales by product category, benchmark by region, and monthly/quarterly trends.
+
+👥 **Team Performance Analysis**  
+Assess individual employee achievements, bonuses, and identify high vs. low-performing regions.
+
+🔍 **Automated Lookups**  
+Uses lookup formulas for dynamic data fetching of employee info and regional benchmarks.
+
+💰 **Bonus Payout Calculation**  
+Calculates team and individual bonuses based on performance against targets.
+
+## 🗂️ File Structure
+
+📁 **project.xlsx**  
+The main Excel dashboard with all data, visuals, and slicers.
+
+📁 **MINI-PROJECT-DATASET.xlsx**  
+Supporting data source with master and transactional data (if needed separately).
+
+🖼️ **/images/**  
+Folder containing screenshots, charts, or visual references used in documentation or the dashboard.
